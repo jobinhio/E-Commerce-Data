@@ -1,9 +1,5 @@
 import pandas as pd
-import numpy as np
 
-# ==============================================
-# 💡 MODULE 1 : Chargement et vérification des données
-# ==============================================
 def load_and_check_data(filepath: str) -> pd.DataFrame:
     try:
         df = pd.read_csv(filepath, encoding='ISO-8859-1')
