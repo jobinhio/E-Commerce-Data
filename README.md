@@ -100,4 +100,4 @@ Ce projet vise à analyser les comportements des clients, les performances des p
 
 ## Contact
 
-Pour toute question ou commentaire, n’hésitez pas à me contacter sur [LinkedIn](linkedin.com/in/job-congo-303908197) ou via mon [GitHub](https://github.com/jobinhio/congo). Ce projet est une vitrine de mon expertise en data science, et j'ai hâte de discuter de nouvelles idées ou de collaborations potentielles !
+Pour toute question ou commentaire, n’hésitez pas à me contacter sur [LinkedIn](https://linkedin.com/in/job-congo-303908197) ou via mon [GitHub](https://github.com/jobinhio). Ce projet est une vitrine de mon expertise en data science, et j'ai hâte de discuter de nouvelles idées ou de collaborations potentielles !
